@@ -1,2 +1,2 @@
 # CalCheck
-calculate BMI
+calculate BMI and BMR
